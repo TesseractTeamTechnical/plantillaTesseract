@@ -1,0 +1,2 @@
+# plantillaTesseract
+Plantilla Tesseract technical
